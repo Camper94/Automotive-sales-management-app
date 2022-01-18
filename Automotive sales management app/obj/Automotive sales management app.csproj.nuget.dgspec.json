@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj": {}
+    "C:\\Users\\Sofiane\\Source\\Repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj": {
+    "C:\\Users\\Sofiane\\Source\\Repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj",
+        "projectUniqueName": "C:\\Users\\Sofiane\\Source\\Repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj",
         "projectName": "Automotive sales management app",
-        "projectPath": "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj",
+        "projectPath": "C:\\Users\\Sofiane\\Source\\Repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj",
         "packagesPath": "C:\\Users\\Sofiane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\obj\\",
+        "outputPath": "C:\\Users\\Sofiane\\Source\\Repos\\Automotive-sales-management-app\\Automotive sales management app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
