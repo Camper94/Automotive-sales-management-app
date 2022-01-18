@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "omeIBzI4jVgY57gvlrxw6tJCaaWy+Zk6JRf39RmsGRlNJRfBrxI9PFUmx0BomPQ7iFP4EKGvSft3YPq99huXrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sofiane\\source\\repos\\Automotive-sales-management-app\\Automotive sales management app\\Automotive sales management app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sofiane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
