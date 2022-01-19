@@ -32,5 +32,10 @@ namespace Automotive_sales_management_app
             Sign_Up form = new Sign_Up();
             form.Show();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

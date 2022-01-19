@@ -14,3 +14,10 @@ C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales m
 C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.pdb
 C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.genruntimeconfig.cache
 C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Sign_Up.resources
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Properties.Resources.resources
+C:\Users\Sofiane\Source\Repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.csproj.CopyComplete
