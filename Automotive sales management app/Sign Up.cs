@@ -14,5 +14,15 @@ namespace Automotive_sales_management_app
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            bool answer;
+            DataAccess db = new DataAccess();
+            answer = db.AddClient(textBox1.Text, textBox6.Text, textBox2.Text, textBox3.Text, textBox4.Text, textBox7.Text, textBox5.Text);
+            if (answer == true)  MessageBox.Show("Client Added With Succes!");
+            else MessageBox.Show("Connexion Failed");
+
+        }
     }
 }

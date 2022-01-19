@@ -13,5 +13,13 @@ namespace Automotive_sales_management_app
         public string ADRESS { get; set; }
         public string PASSWORD { get; set; }
         public int IDSALESMEN { get; set; }
+
+        public string FullInfo
+        {
+            get
+            {
+                return $"{ID} { NOM } { PRENOM } { CTBANK } { ADRESS } { PASSWORD } { IDSALESMEN } ";
+            }
+        }
     }
 }
