@@ -10,8 +10,11 @@ C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales m
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.csprojAssemblyReference.cache
+C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Client_UI.resources
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Form1.resources
+C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Owner.resources
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Properties.Resources.resources
+C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Salesmen_UI.resources
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.Sign_Up.resources
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.csproj.GenerateResource.cache
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.AssemblyInfoInputs.cache

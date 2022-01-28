@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Text;
+using System.Linq;
 using Dapper;
 
 namespace Automotive_sales_management_app
 {
     public class DataAccess
     {
+        string connectionString = @"Server=.\SQLEXPRESS;Database=AUTODZ;Trusted_Connection=True;";
         public bool AddClient(string id, string nom, string prenom, string ctbank, string adress, string password, string idsalesmen)
         {
-            var connectionString = @"Server=.\SQLEXPRESS;Database=AUTODZ;Trusted_Connection=True;";
+            
             try
             {
                 using (IDbConnection connection = new SqlConnection(connectionString))
@@ -27,6 +29,38 @@ namespace Automotive_sales_management_app
                 return false;
             }
            
+        }
+
+        public List<AUTO> GetAuto()
+        {
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return connection.Query<AUTO>($"select * from AUTO").ToList();
+            }
+        }
+
+        public List<PARTS> GetPartsInfo()
+        {
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return connection.Query<PARTS>($"select * from PARTS").ToList();
+            }
+        }
+
+        public List<INSSURANCE> GetInssuranceInfo()
+        {
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return connection.Query<INSSURANCE>($"select * from INSSURANCE").ToList();
+            }
+        }
+
+        public List<ACCESSORY> GetAccessoryInfo()
+        {
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                return connection.Query<ACCESSORY>($"select * from ACCESSORY").ToList();
+            }
         }
     }
 }

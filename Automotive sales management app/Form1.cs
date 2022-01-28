@@ -40,7 +40,25 @@ namespace Automotive_sales_management_app
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Owner owner = new Owner();
+            owner.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Client_UI client = new Client_UI();
+            client.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Salesmen_UI salesmen = new Salesmen_UI();
+            salesmen.Show();
         }
     }
 }

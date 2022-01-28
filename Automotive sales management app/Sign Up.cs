@@ -24,5 +24,10 @@ namespace Automotive_sales_management_app
             else MessageBox.Show("Connexion Failed");
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
