@@ -24,3 +24,4 @@ C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales m
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.dll
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.pdb
 C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive sales management app.genruntimeconfig.cache
+C:\Users\Sofiane\source\repos\Automotive-sales-management-app\Automotive sales management app\obj\Debug\netcoreapp3.1\Automotive_sales_management_app.PurchaseWindows.resources

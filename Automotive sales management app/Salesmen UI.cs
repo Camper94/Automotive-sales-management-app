@@ -14,5 +14,10 @@ namespace Automotive_sales_management_app
         {
             InitializeComponent();
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

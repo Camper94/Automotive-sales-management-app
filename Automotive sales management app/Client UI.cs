@@ -52,5 +52,11 @@ namespace Automotive_sales_management_app
             listBox1.DataSource = accessory;
             listBox1.DisplayMember = "FullInfo";
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            PurchaseWindows purchase = new PurchaseWindows();
+            purchase.Show();
+        }
     }
 }
