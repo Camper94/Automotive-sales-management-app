@@ -10,7 +10,7 @@ namespace Automotive_sales_management_app
         public int ID { get; set; }
         public string MODEL { get; set; }
         public int PRIX { get; set; }
-        public DateTime ANNE { get; set; }
+        public string ANNEE { get; set; }
         public int KILO { get; set; }
         public string ACCIDENT { get; set; }
         public int IDSALESMEN { get; set; }
@@ -19,7 +19,7 @@ namespace Automotive_sales_management_app
         {
             get
             {
-                return $"Model :{MODEL} - Prix :{PRIX} Annee : {ANNE} Kilo :{KILO} Info:{ACCIDENT}";
+                return $"Model :{MODEL} - Prix :{PRIX} Annee : {ANNEE} Kilo :{KILO} Info:{ACCIDENT}";
             }
         }
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Automotive_sales_management_app
 {
-    class SALESMEN
+    public class SALESMEN
     {
         public int ID { get; set; }
         public string NOM { get; set; }
@@ -14,5 +14,13 @@ namespace Automotive_sales_management_app
         public int VRCOMMI { get; set; }
         public string PASSWORD { get; set; }
         public int IDOWNER { get; set; }
+
+        public string FullInfo
+        {
+            get
+            {
+                return $"{ID} { NOM } { PRENOM }";
+            }
+        }
     }
 }

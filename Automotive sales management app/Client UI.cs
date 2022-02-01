@@ -10,10 +10,14 @@ namespace Automotive_sales_management_app
 {
     public partial class Client_UI : Form
     {
+        public static Client_UI instance;
+        public Label lb1;
         DataAccess db = new DataAccess();    
         public Client_UI()
         {
             InitializeComponent();
+            instance = this;
+            lb1 = label1;
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -57,6 +61,11 @@ namespace Automotive_sales_management_app
         {
             PurchaseWindows purchase = new PurchaseWindows();
             purchase.Show();
+        }
+
+        private void Client_UI_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

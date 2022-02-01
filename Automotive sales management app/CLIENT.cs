@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Automotive_sales_management_app
 {
-    class CLIENT
+    public class CLIENT
     {
         public int ID { get; set; }
         public string NOM { get; set; }
@@ -18,7 +18,7 @@ namespace Automotive_sales_management_app
         {
             get
             {
-                return $"{ID} { NOM } { PRENOM } { CTBANK } { ADRESS } { PASSWORD } { IDSALESMEN } ";
+                return $"{ID} { NOM } { PRENOM }";
             }
         }
     }

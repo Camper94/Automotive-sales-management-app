@@ -151,6 +151,7 @@ namespace Automotive_sales_management_app
             this.Controls.Add(this.listBox1);
             this.Name = "Client_UI";
             this.Text = "Client_UI";
+            this.Load += new System.EventHandler(this.Client_UI_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

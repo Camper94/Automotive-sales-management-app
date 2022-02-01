@@ -1,23 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Text;
-using System.Windows.Forms;
 
 namespace Automotive_sales_management_app
 {
-    public partial class Owner : Form
+    public class OWNER
     {
-        public Owner()
-        {
-            InitializeComponent();
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        public int ID { get; set; }
+        public string USERNAME { get; set; }
+        public string PASS { get; set; }
     }
 }
